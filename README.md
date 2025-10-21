@@ -22,4 +22,12 @@ Tất cả được cài đặt **thuần C++**, sử dụng **ma trận kề** 
 ---
 
 ## 📂 Cấu trúc thư mục
+📦 Project/
+┣ 📜 main.cpp → Chương trình chính: đọc dữ liệu, gọi Bellman-Ford & TSP
+┣ 📜 bellman.h → Khai báo hàm & prototype cho Bellman-Ford
+┣ 📜 bellman.cpp → Cài đặt chi tiết thuật toán Bellman-Ford
+┣ 📜 tsm.h → Khai báo hàm & prototype cho Traveling Salesman
+┣ 📜 tsm.cpp → Cài đặt chi tiết bài toán TSP (branch & bound)
+┣ 📜 inMat1.txt → Ma trận kề đầu vào (ví dụ 12x12)
+┗ 📜 README.md → Tài liệu mô tả dự án
 
