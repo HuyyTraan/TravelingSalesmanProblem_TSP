@@ -131,10 +131,7 @@ Trường: Đại học Bách Khoa – ĐHQG TP.HCM
 
 Kỳ: 232
 
-Giảng viên hướng dẫn: [Điền tên nếu cần]
-
-🧾 Giấy phép
-
+Giảng viên hướng dẫn: Nguyễn An Khương
 Dự án được chia sẻ với mục đích học tập và tham khảo.
 Vui lòng ghi nguồn khi sử dụng hoặc chỉnh sửa lại mã nguồn.
 
