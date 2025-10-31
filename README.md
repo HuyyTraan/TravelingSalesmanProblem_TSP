@@ -142,5 +142,5 @@ Vui lòng ghi nguồn khi sử dụng hoặc chỉnh sửa lại mã nguồn.
 
  Viết giao diện đồ họa (bằng Qt hoặc SDL) để trực quan hóa đường đi
 
- Thêm đọc/ghi JSON hoặc CSV để nhập/xuất dữ liệu dễ dàng hơn
+ Thêm đọc/ghi JSON hoặc CSV để nhập/xuất dữ liệu dễ dàng hơn 
 
