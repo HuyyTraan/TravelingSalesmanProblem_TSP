@@ -3,7 +3,7 @@
 **Trường Đại học Bách Khoa – ĐHQG TP.HCM (HCMUT)**  
 **Khoa Khoa Học & Kỹ Thuật Máy Tính (CSE)**  
 **Môn học:** Cấu trúc rời rạc – Kỳ 232  
-**Bài tập lớn (BTL)**   
+**Bài tập lớn (BTL)**     
 
 ---   
        
