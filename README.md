@@ -4,7 +4,7 @@
 **Khoa Khoa Học & Kỹ Thuật Máy Tính (CSE)**  
 **Môn học:** Cấu trúc rời rạc – Kỳ 232  
 **Bài tập lớn (BTL)**     
-
+**Trần Vũ Đình Huy**
 ---   
        
 ## 📘 Giới thiệu
